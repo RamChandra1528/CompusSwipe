@@ -1,2 +1,0 @@
-### Project Overview
-- Campus Swipe is a comprehensive social mobile application designed specifically for college students, combining photo sharing, social rating, and community interaction in a secure, college-verified environment. The app creates an engaging platform where students can share photos, rate each other's content through intuitive swipe gestures, and build social connections within their academic community.
