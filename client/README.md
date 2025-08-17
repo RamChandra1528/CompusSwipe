@@ -1,1 +1,0 @@
-compus_Swipe
